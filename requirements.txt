@@ -1,0 +1,8 @@
+django-jazzmin
+Django
+django-ckeditor
+django-cleanup
+django-filter
+django-js-asset
+Pillow
+python-decouple
